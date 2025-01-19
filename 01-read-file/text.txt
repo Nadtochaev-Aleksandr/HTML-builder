@@ -1,1 +1,4 @@
-Choosing a name like `c` simply because names `a` and `b` are already taken is not a good practice. It's important to select meaningful and descriptive names that clearly convey the purpose or function of the variable or entity being named.
+ВНИМАНИЕ ПРОВЕРЯЮЩИХ!!!
+Работа выполнена не в полном объёме! Последние 3 подзадачи не реализованы!
+Не тратье своё время - после 3-й задачи "03 Displaying Information about Files Stored in a Folder" можете дальше не проверять.
+Всем добра и хорошего вечера! ;)
